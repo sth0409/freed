@@ -301,21 +301,143 @@
 {"name":"小当家","urls":["http://dyscdnali1.douyucdn.cn/live/8231658rRgfVcSVo.flv?uuid="]},
 {"name":"动漫","urls":["http://dyscdnali1.douyucdn.cn/live/7686674rFH7xe5Ay.flv?uuid="]},
 {"name":"韩国女团","urls":["http://dyscdnali1.douyucdn.cn/live/231464r9XzaQ89ir.flv?uuid="]}]},
-{"group":"央视","channels":[
-{"name":"CCTV-1综合","urls":["http://223.110.241.206:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ"]},
-{"name":"CCTV-2财经","urls":["http://223.110.241.206:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ"]},
-{"name":"CCTV-3综艺","urls":["http://223.110.241.206:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ"]},
-{"name":"CCTV-4中文国际","urls":["http://223.110.241.206:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ"]},
-{"name":"CCTV-5体育","urls":["http://223.110.241.206:6610/cntv/live1/HD-12000k-1080P-cctv5/1.m3u8"]},
-{"name":"CCTV-5+体育赛事","urls":["http://223.110.241.206:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/"]},
-{"name":"CCTV-6电影","urls":["http://223.110.241.206:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ"]},
-{"name":"CCTV-7军事农业","urls":["http://223.110.241.206:6610/cntv/live1/HD-12000k-1080P-cctv7/1.m3u8"]},
-{"name":"CCTV-8电视剧","urls":["http://223.110.241.206:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ"]},
-{"name":"CCTV-9纪录","urls":["http://223.110.241.206:6610/gitv/live1/G_CCTV-9-HD-265-5M/G_CCTV-9-HD-265-5M"]},
-{"name":"CCTV-10科教","urls":["http://223.110.241.206:6610/cntv/live1/HD-8000k-1080P-cctv10/1.m3u8"]},
-{"name":"CCTV-12社会与法","urls":["http://223.110.241.206:6610/cntv/live1/HD-8000k-1080P-cctv12/1.m3u8"]},
-{"name":"CCTV-13新闻","urls":["http://223.110.241.206:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ"]},
-{"name":"CCTV-14少儿","urls":["http://223.110.241.206:6610/cntv/live1/HD-8000k-1080P-cctv14/1.m3u8"]}]},
+{
+    "group": "央视",
+    "channels": [
+        {
+            "name": "CCTV-1",
+            "urls": [
+                "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1",
+                "http://39.134.24.24/PLTV/88888888/224/3221225684/index.m3u8",
+                "http://39.134.24.24/PLTV/88888888/224/3221225829/index.m3u8",
+                "http://39.134.24.24/PLTV/88888888/224/3221225652/index.m3u8",
+                "http://39.134.24.24/PLTV/88888888/224/3221226024/index.m3u8"
+            ]
+        },
+        {
+            "name": "CCTV-2",
+            "urls": [
+                "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2",
+                "http://39.134.24.24/PLTV/88888888/224/3221225686/index.m3u8"
+            ]
+        },
+        {
+            "name": "CCTV-3",
+            "urls": [
+                "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3",
+                "http://39.134.24.24/PLTV/88888888/224/3221226023/index.m3u8",
+                "http://39.134.24.24/PLTV/88888888/224/3221225630/index.m3u8"
+            ]
+        },
+        {
+            "name": "CCTV-4",
+            "urls": [
+                "http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4",
+                "http://39.134.24.24/PLTV/88888888/224/3221225662/index.m3u8"
+            ]
+        },
+        {
+            "name": "CCTV-5",
+            "urls": [
+                "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5",
+                "http://39.134.24.24/PLTV/88888888/224/3221226025/index.m3u8",
+                "http://39.134.24.24/PLTV/88888888/224/3221225758/index.m3u8"
+            ]
+        },
+        {
+            "name": "CCTV-5+",
+            "urls": [
+                "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv05plus/HD-8000k-1080P-cctv05plus",
+                "http://39.134.24.24/PLTV/88888888/224/3221225718/index.m3u8"
+            ]
+        },
+        {
+            "name": "CCTV-6",
+            "urls": [
+                "http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6",
+                "http://39.134.24.24/PLTV/88888888/224/3221226027/index.m3u8",
+                "http://39.134.24.24/PLTV/88888888/224/3221225708/index.m3u8"
+            ]
+        },
+        {
+            "name": "CCTV-7",
+            "urls": [
+                "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv7/HD-8000k-1080P-cctv7",
+                "http://39.134.24.24/PLTV/88888888/224/3221225855/index.m3u8",
+                "http://39.134.24.24/PLTV/88888888/224/3221225768/index.m3u8"
+            ]
+        },
+        {
+            "name": "CCTV-8",
+            "urls": [
+                "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv8/HD-8000k-1080P-cctv8",
+                "http://39.134.24.24/PLTV/88888888/224/3221226029/index.m3u8",
+                "http://39.134.24.24/PLTV/88888888/224/3221225666/index.m3u8"
+            ]
+        },
+        {
+            "name": "CCTV-9",
+            "urls": [
+                "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv9/HD-8000k-1080P-cctv9",
+                "http://39.134.24.24/PLTV/88888888/224/3221225672/index.m3u8"
+            ]
+        },
+        {
+            "name": "CCTV-10",
+            "urls": [
+                "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv10/HD-8000k-1080P-cctv10",
+                "http://39.134.24.24/PLTV/88888888/224/3221225823/index.m3u8",
+                "http://39.134.24.24/PLTV/88888888/224/3221225782/index.m3u8"
+            ]
+        },
+        {
+            "name": "CCTV-11",
+            "urls": [
+                "http://183.207.248.71:80/cntv/live1/n-cctv-11/n-cctv-11",
+                "http://39.134.24.24/PLTV/88888888/224/3221225825/index.m3u8",
+                "http://39.134.24.24/PLTV/88888888/224/3221225774/index.m3u8"
+            ]
+        },
+        {
+            "name": "CCTV-12",
+            "urls": [
+                "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv12/HD-8000k-1080P-cctv12",
+                "http://39.134.24.24/PLTV/88888888/224/3221225702/index.m3u8"
+            ]
+        },
+        {
+            "name": "CCTV-13",
+            "urls": [
+                "http://183.207.248.71:80/cntv/live1/cctv-13/cctv-13",
+                "http://39.134.24.24/PLTV/88888888/224/3221225827/index.m3u8",
+                "http://39.134.24.24/PLTV/88888888/224/3221225612/index.m3u8",
+                "http://39.134.24.24/PLTV/88888888/224/3221225650/index.m3u8"
+            ]
+        },
+        {
+            "name": "CCTV-14",
+            "urls": [
+                "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv14/HD-8000k-1080P-cctv14",
+                "http://39.134.24.24/PLTV/88888888/224/3221225857/index.m3u8",
+                "http://39.134.24.24/PLTV/88888888/224/3221225658/index.m3u8"
+            ]
+        },
+        {
+            "name": "CCTV-15",
+            "urls": [
+                "http://183.207.248.71:80/cntv/live1/n-cctv-15/n-cctv-15",
+                "http://39.134.24.24/PLTV/88888888/224/3221225636/index.m3u8"
+            ]
+        },
+        {
+            "name": "CCTV-17",
+            "urls": [
+                "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv17/HD-8000k-1080P-cctv17",
+                "http://39.134.24.24/PLTV/88888888/224/3221225859/index.m3u8"
+            ]
+        }
+    ]
+},
 {"group":"卫视","channels":[
 {"name":"安徽卫视","urls":["http://223.110.241.206:6610/gitv/live1/G_ANHUI-HD-265-5M/G_ANHUI-HD-265-5M"]},
 {"name":"北京卫视","urls":["http://223.110.241.206:6610/gitv/live1/G_BEIJING-HD-265-5M/G_BEIJING-HD-265-5M"]},
